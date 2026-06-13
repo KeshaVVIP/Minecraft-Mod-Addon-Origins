@@ -1,0 +1,11 @@
+{
+    "name": "Girlie Power",
+    "description": "This will make you incredibly weak at all times especially mining diamonds or fighting.\n",
+    "powers": [
+        "me_origin:weakgirl"
+    ],
+    "icon": {
+        "item": "minecraft:diamond"
+    },
+    "impact": 3
+}

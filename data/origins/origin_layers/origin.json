@@ -1,0 +1,7 @@
+{
+    "origins": [
+        "me_origin:origin1",
+        "me_origin:origin2"
+    ],
+    "enabled": true
+}

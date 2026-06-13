@@ -1,0 +1,12 @@
+{
+    "pack": {
+        "name": "MeOrigin",
+        "id": "me_origin",
+        "pack_format": 26,
+        "version": "1.0.0",
+        "authors": [
+            "KeshaVVIP"
+        ],
+        "description": "My origins addon first attempt"
+    }
+}

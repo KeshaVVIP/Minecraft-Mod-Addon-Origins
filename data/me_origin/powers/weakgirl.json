@@ -1,0 +1,17 @@
+{
+    "name": "Weakness",
+    "description": "This will give you incredible tiredness while breaking blocks.",
+    "type": "origins:action_on_block_break",
+    "entity_action": {
+        "type": "origins:apply_effect",
+        "effect": {
+            "effect": "minecraft:weakness",
+            "duration": 15,
+            "amplifier": 2,
+            "is_ambient": true,
+            "show_particles": false,
+            "show_icon": true
+        }
+    },
+    "only_when_harvested": true
+}

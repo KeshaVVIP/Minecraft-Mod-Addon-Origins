@@ -1,0 +1,11 @@
+{
+    "name": "Boyz Power",
+    "description": "This will make you feel incredibly strong and independent! You mine faster walk faster and can't sleep!",
+    "powers": [
+        "me_origin:strongguy"
+    ],
+    "icon": {
+        "item": "minecraft:iron_axe"
+    },
+    "impact": 2
+}
