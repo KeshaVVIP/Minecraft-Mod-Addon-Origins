@@ -1,0 +1,8 @@
+{
+    "name": "Necromancer",
+    "description": "Beware the power of undead. Eat rotten potatoes if you want to keep your power.",
+    "powers": [
+        "me_origin:potat_gapple_effects"
+    ],
+    "impact": 0
+}
